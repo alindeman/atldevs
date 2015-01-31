@@ -31,4 +31,4 @@ module Slack
       true
     end
   end
-e
+end
